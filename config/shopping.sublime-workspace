@@ -1,0 +1,901 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"password",
+				"password"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: out",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":e - Revert"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"Package Control: v",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: vu",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p manager",
+				"Project Manager"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"adva",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"instg",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"status bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp7/htdocs/videos-laravel.test/config/app.php",
+		"/C/xampp7/htdocs/videos-laravel.test/.env",
+		"/C/xampp7/htdocs/project1.test/simple/index.html",
+		"/C/xampp7/htdocs/project1.test/simple/src/Content.vue",
+		"/C/xampp7/htdocs/project1.test/simple/src/Sidebar.Vue",
+		"/C/Users/MarcosAntonio/Desktop/vuejs-mail-app-master/src/Sidebar.vue",
+		"/C/xampp7/htdocs/project1.test/simple/src/App.vue",
+		"/C/xampp7/htdocs/project1.test/simple/src/main.js",
+		"/C/xampp7/htdocs/project1.test/simple/src/Sent.vue",
+		"/C/Users/MarcosAntonio/Desktop/vuejs-mail-app-master/index.html",
+		"/C/xampp7/htdocs/project1.test/simple/src/ViewMessage.vue",
+		"/C/xampp7/htdocs/project1.test/simple/package.json",
+		"/C/Users/MarcosAntonio/Desktop/vuejs-mail-app-master/src/App.vue",
+		"/C/xampp7/htdocs/vuejs.test/webapp/src/main.js",
+		"/C/Users/MarcosAntonio/Videos/cursos udemy/vue/VueJS.2.Crea.webapps.modernas/Archivos base/035 Código desarrollado durante el curso/webapp/src/main.js",
+		"/C/xampp7/htdocs/vuejs.test/webapp/src/RestaurantesList.vue",
+		"/C/Users/MarcosAntonio/Videos/cursos udemy/vue/VueJS.2.Crea.webapps.modernas/Archivos base/035 Código desarrollado durante el curso/webapp/src/Restaurante.vue",
+		"/C/Users/MarcosAntonio/Videos/cursos udemy/vue/VueJS.2.Crea.webapps.modernas/Archivos base/035 Código desarrollado durante el curso/webapp/src/RestaurantesList.vue",
+		"/C/Users/MarcosAntonio/Desktop/vue-poster-shop-master/public/script.js",
+		"/C/Users/MarcosAntonio/Desktop/067/webservice/app/Http/Controllers/ConteudoController.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/templates/SiteTemplate.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/templates/LoginTemplate.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/pages/login/Login.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/pages/cadastro/Cadastro.vue",
+		"/C/Users/MarcosAntonio/Desktop/065/social/src/main.js",
+		"/C/Users/MarcosAntonio/Desktop/063/social/src/components/social/PublicarConteudoVue.vue",
+		"/C/Users/MarcosAntonio/Desktop/063/social/src/pages/home/Home.vue",
+		"/C/xampp7/htdocs/spavue.test/webservice/config/app.php",
+		"/C/Users/MarcosAntonio/Desktop/063/webservice/app/Http/Controllers/ConteudoController.php",
+		"/C/Users/MarcosAntonio/Desktop/063/webservice/routes/api.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/social/PublicarConteudoVue.vue",
+		"/C/xampp7/htdocs/spavue.test/webservice/app/Http/Controllers/UsuarioController.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/pages/perfil/Perfil.vue",
+		"/C/xampp7/htdocs/spavue.test/webservice/routes/api.php",
+		"/C/Users/MarcosAntonio/Desktop/059/social/src/main.js",
+		"/C/Users/MarcosAntonio/Desktop/059/social/src/pages/perfil/Perfil.vue",
+		"/C/Users/MarcosAntonio/Desktop/055/social/src/pages/login/Login.vue",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/app/Http/Controllers/UsuarioController.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/migrations/2018_06_09_154142_create_conteudos_table.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/migrations/2018_06_09_154209_create_comentarios_table.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/database/migrations/2018_04_10_152150_create_conteudos_table.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/database/migrations/2018_04_10_152204_create_comentarios_table.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/database/migrations/2018_04_10_152216_create_amigos_table.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/migrations/2018_06_09_154328_create_amigos_table.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/migrations/2018_06_09_154422_create_curtidas_table.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/database/migrations/2018_04_10_152233_create_curtidas_table.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/database.sqlite",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/app/User.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/app/User.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/app/Conteudo.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/app/Conteudo.php",
+		"/C/Users/MarcosAntonio/Desktop/055/webservice/app/Comentario.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/app/Comentario.php",
+		"/C/Users/MarcosAntonio/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/xampp7/htdocs/spavue.test/webservice/app/Http/Kernel.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/config/cors.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/pages/home/Home.vue",
+		"/C/Users/MarcosAntonio/Desktop/048/webservice/routes/api.php",
+		"/C/xampp7/htdocs/spavue.test/webservice/database/migrations/2018_06_08_140418_add_imagem_table_users.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/router/index.js",
+		"/C/Users/MarcosAntonio/Desktop/037/social/src/templates/LoginTemplate.vue",
+		"/C/Users/MarcosAntonio/Desktop/036/social/src/templates/LoginTemplate.vue",
+		"/C/Users/MarcosAntonio/Desktop/036/social/src/App.vue",
+		"/C/xampp7/htdocs/spavue.test/social/.gitignore",
+		"/C/xampp7/htdocs/spavue.test/webservice/config/auth.php",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/layouts/NavBar.vue",
+		"/C/xampp7/htdocs/spavue.test/webservice/.env",
+		"/C/xampp7/htdocs/spavue.test/social/dist/.htaccess",
+		"/C/xampp7/htdocs/spavue.test/social/src/App.vue",
+		"/C/xampp7/htdocs/spavue.test/social/index.html",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/layouts/FooterVue.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/layouts/GridVue.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/layouts/CardMenuVue.vue",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/layouts/CardConteudoVue.vue",
+		"/C/xampp7/htdocs/spavue.test/socialLTE/index.html",
+		"/C/xampp7/htdocs/spavue.test/socialLTE/src/pages/home/Home.vue",
+		"/C/xampp7/htdocs/spavue.test/social/static/teste.js",
+		"/C/xampp7/htdocs/spavue.test/social/src/components/HelloWorld.vue",
+		"/C/Users/MarcosAntonio/Code/vuejs-poster-shop/public/reload/reload.js",
+		"/C/Users/MarcosAntonio/Code/vuejs-poster-shop/index.html",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/AdminController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/admin/adm/index.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/admin.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/admin/usuarios/index.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/routes/web.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Providers/AuthServiceProvider.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/User.php",
+		"/C/Users/MarcosAntonio/Code/blog2/database/migrations/2018_05_30_143224_add_autor_table_users.php",
+		"/C/Users/MarcosAntonio/Code/blog2/database/migrations/2018_05_31_230717_add_admin_table_users.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/site.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/artigo.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Painel.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/ArtigoCard.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/TabelaLista.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/admin/artigos/index.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Artigo.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/app.js",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/052/blog/resources/views/admin/artigos/index.blade.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/053/blog/resources/assets/js/app.js",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/053/blog/resources/views/admin/artigos/index.blade.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/053/blog/resources/views/layouts/app.blade.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/055/blog/resources/views/site.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/layouts/app.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/config/app.php",
+		"/C/Users/MarcosAntonio/Code/blog2/.env",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Admin/ArtigosController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Admin/AutoresController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Admin/UsuariosController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/welcome.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/047/blog/resources/views/admin/artigos/index.blade.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/047/blog/resources/views/admin/usuarios/index.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/app/Http/Controllers/HomeController.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/home.blade.php",
+		"/C/Users/MarcosAntonio/Code/blog2/database/migrations/2018_05_30_212351_add_user_id_table_artigos.php",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/views/admin/autores/index.blade.php",
+		"/C/Users/MarcosAntonio/Desktop/Laravel 5.5 com Vue JS FullStack pt-BR/Aulas/040/blog/resources/assets/js/components/TabelaLista.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/sass/app.scss",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/modal/Modal.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/modal/ModalLink.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Formulario.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Migalhas.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Caixa.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Pagina.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/Example.vue",
+		"/C/Users/MarcosAntonio/Code/blog2/resources/assets/js/components/ExampleComponent.vue"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 38.0
+	},
+	"output.find_results":
+	{
+		"height": 83.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"w",
+				"routes\\web.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"js/app",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"lay/app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"arti",
+				"app\\Http\\Controllers\\Admin\\ArtigosController.php"
+			],
+			[
+				"User",
+				"app\\User.php"
+			],
+			[
+				"Arti",
+				"app\\Http\\Controllers\\Admin\\ArtigosController.php"
+			],
+			[
+				"Artig",
+				"app\\Http\\Controllers\\Admin\\ArtigosController.php"
+			],
+			[
+				"ass/app",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"Artigos",
+				"app\\Http\\Controllers\\Admin\\ArtigosController.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"Mig",
+				"resources\\assets\\js\\components\\Migalhas.vue"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"pages",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"spa.",
+				"resources\\views\\pages\\spa.blade.php"
+			],
+			[
+				"routes",
+				"resources\\assets\\js\\routes.js"
+			],
+			[
+				"route",
+				"node_modules\\http-proxy-middleware\\lib\\router.js"
+			],
+			[
+				"styl",
+				"public\\css\\style.css"
+			],
+			[
+				"app",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"app.js",
+				"public\\js\\app.js"
+			],
+			[
+				"api.php",
+				"routes\\api.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"style",
+				"public\\css\\style.css"
+			],
+			[
+				"PostsL",
+				"resources\\assets\\js\\components\\PostsListItem.vue"
+			],
+			[
+				"social",
+				"resources\\views\\partials\\social-links.blade.php"
+			],
+			[
+				"PostsS",
+				"resources\\assets\\js\\views\\PostsShow.vue"
+			],
+			[
+				"spa",
+				"resources\\views\\pages\\spa.blade.php"
+			],
+			[
+				"CategoryP",
+				"resources\\assets\\js\\views\\CategoryPosts.vue"
+			],
+			[
+				"Tags",
+				"resources\\assets\\js\\views\\TagsPosts.vue"
+			],
+			[
+				"PostL",
+				"resources\\assets\\js\\components\\PostsList.vue"
+			],
+			[
+				"TagsC",
+				"app\\Http\\Controllers\\TagsController.php"
+			],
+			[
+				"Cate",
+				"app\\Http\\Controllers\\CategoriesController.php"
+			],
+			[
+				"Pages",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"default.bla",
+				"resources\\views\\vendor\\pagination\\default.blade.php"
+			],
+			[
+				"HOme",
+				"resources\\assets\\js\\views\\Home.vue"
+			],
+			[
+				"PostLi",
+				"resources\\assets\\js\\components\\PostsListItem.vue"
+			],
+			[
+				"PostH",
+				"resources\\assets\\js\\components\\PostHeader.vue"
+			],
+			[
+				"Archi",
+				"resources\\assets\\js\\views\\Archive.vue"
+			],
+			[
+				"Home",
+				"resources\\assets\\js\\views\\Home.vue"
+			],
+			[
+				"app.",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"Ho",
+				"resources\\assets\\js\\views\\Home.vue"
+			],
+			[
+				"header",
+				"resources\\views\\posts\\header.blade.php"
+			],
+			[
+				"Possh",
+				"resources\\assets\\js\\views\\PostsShow.vue"
+			],
+			[
+				"Post",
+				"app\\Post.php"
+			],
+			[
+				"show.blade",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"show",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"routes.",
+				"resources\\assets\\js\\routes.js"
+			],
+			[
+				"404",
+				"resources\\views\\errors\\404.blade.php"
+			],
+			[
+				"tags",
+				"resources\\views\\posts\\tags.blade.php"
+			],
+			[
+				"post.",
+				"app\\Post.php"
+			],
+			[
+				"header.",
+				"resources\\views\\posts\\header.blade.php"
+			],
+			[
+				"archiv",
+				"resources\\views\\pages\\archive.blade.php"
+			],
+			[
+				"about",
+				"resources\\views\\pages\\about.blade.php"
+			],
+			[
+				"contac",
+				"resources\\views\\pages\\contact.blade.php"
+			],
+			[
+				"partials/na",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"nav",
+				"resources\\views\\admin\\partials\\nav.blade.php"
+			],
+			[
+				"cate",
+				"app\\Http\\Controllers\\CategoriesController.php"
+			],
+			[
+				"Posts",
+				"database\\seeds\\PostsTableSeeder.php"
+			],
+			[
+				"Pos",
+				"app\\Post.php"
+			],
+			[
+				"archive",
+				"resources\\views\\pages\\archive.blade.php"
+			],
+			[
+				"Pa",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"na",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"users/inde",
+				"resources\\views\\admin\\users\\index.blade.php"
+			],
+			[
+				"",
+				"resources\\views\\admin\\partials\\nav.blade.php"
+			],
+			[
+				"amin/nav",
+				"resources\\views\\admin\\partials\\nav.blade.php"
+			],
+			[
+				"users",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"users/in",
+				"resources\\views\\admin\\users\\index.blade.php"
+			],
+			[
+				"role/i",
+				"resources\\views\\admin\\roles\\index.blade.php"
+			],
+			[
+				"permissions/i",
+				"resources\\views\\admin\\permissions\\index.blade.php"
+			],
+			[
+				"usersta",
+				"database\\seeds\\UsersTableSeeder.php"
+			],
+			[
+				"permi",
+				"app\\Http\\Controllers\\Admin\\PermissionsController.php"
+			],
+			[
+				"userst",
+				"database\\seeds\\UsersTableSeeder.php"
+			],
+			[
+				"form",
+				"resources\\views\\admin\\roles\\form.blade.php"
+			],
+			[
+				"roles/edi",
+				"resources\\views\\admin\\roles\\edit.blade.php"
+			],
+			[
+				"roles/in",
+				"resources\\views\\admin\\roles\\index.blade.php"
+			],
+			[
+				"Admin/per",
+				"app\\Http\\Controllers\\Admin\\PermissionsController.php"
+			],
+			[
+				"Save",
+				"app\\Http\\Requests\\SaveRolesRequest.php"
+			],
+			[
+				"roles",
+				"app\\Http\\Controllers\\Admin\\RolesController.php"
+			],
+			[
+				"r/w",
+				"routes\\web.php"
+			],
+			[
+				"admin/roles/in",
+				"resources\\views\\admin\\roles\\index.blade.php"
+			],
+			[
+				"rolesc",
+				"app\\Http\\Controllers\\Admin\\RolesController.php"
+			],
+			[
+				"roles/cr",
+				"resources\\views\\admin\\roles\\create.blade.php"
+			],
+			[
+				"roles/e",
+				"resources\\views\\admin\\roles\\edit.blade.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"admin/lay",
+				"resources\\views\\admin\\layout.blade.php"
+			],
+			[
+				"checkbo",
+				"resources\\views\\admin\\permissions\\checkboxes.blade.php"
+			],
+			[
+				"role",
+				"vendor\\spatie\\laravel-permission\\src\\Contracts\\Role.php"
+			],
+			[
+				"user/ed",
+				"resources\\views\\admin\\users\\edit.blade.php"
+			],
+			[
+				"users/c",
+				"resources\\views\\admin\\users\\create.blade.php"
+			],
+			[
+				"admin/r",
+				"app\\Http\\Controllers\\Admin\\RolesController.php"
+			],
+			[
+				"roles/c",
+				"resources\\views\\admin\\roles\\create.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\admin\\users\\create.blade.php"
+			],
+			[
+				"user/edit",
+				"resources\\views\\admin\\users\\edit.blade.php"
+			],
+			[
+				"user/cr",
+				"resources\\views\\admin\\users\\create.blade.php"
+			],
+			[
+				"admin/user",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"users/ed",
+				"resources\\views\\admin\\users\\edit.blade.php"
+			],
+			[
+				"edit",
+				"resources\\views\\admin\\posts\\edit.blade.php"
+			],
+			[
+				"login",
+				"app\\Mail\\LoginCredentials.php"
+			],
+			[
+				"Users",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"Regis",
+				"app\\Http\\Controllers\\Auth\\RegisterController.php"
+			],
+			[
+				"admin/us",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"admin/u",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"users/edit",
+				"resources\\views\\admin\\users\\edit.blade.php"
+			],
+			[
+				"users/cre",
+				"resources\\views\\admin\\users\\create.blade.php"
+			],
+			[
+				"admin/par",
+				"resources\\views\\admin\\partials\\nav.blade.php"
+			],
+			[
+				"user/edi",
+				"resources\\views\\admin\\users\\edit.blade.php"
+			],
+			[
+				"admin/users",
+				"app\\Http\\Controllers\\Admin\\UsersController.php"
+			],
+			[
+				"admin/pos",
+				"app\\Http\\Controllers\\Admin\\PostsController.php"
+			],
+			[
+				"PostP",
+				"app\\Policies\\PostPolicy.php"
+			],
+			[
+				"P",
+				"app\\Post.php"
+			],
+			[
+				"admin/l",
+				"resources\\views\\admin\\layout.blade.php"
+			],
+			[
+				"admin/po",
+				"app\\Http\\Controllers\\Admin\\PostsController.php"
+			],
+			[
+				"U",
+				"app\\User.php"
+			],
+			[
+				"Access",
+				"vendor\\symfony\\http-kernel\\Exception\\AccessDeniedHttpException.php"
+			],
+			[
+				"hom",
+				"resources\\views\\pages\\home.blade.php"
+			],
+			[
+				"crea",
+				"resources\\views\\admin\\posts\\create.blade.php"
+			],
+			[
+				"lay",
+				"resources\\views\\admin\\layout.blade.php"
+			],
+			[
+				"layou",
+				"resources\\views\\admin\\layout.blade.php"
+			],
+			[
+				"twitter-bootstrap.css",
+				"public\\css\\twitter-bootstrap.css"
+			],
+			[
+				"Pag",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"PostC",
+				"app\\Http\\Controllers\\Admin\\PostsController.php"
+			],
+			[
+				"post/in",
+				"resources\\views\\admin\\posts\\index.blade.php"
+			],
+			[
+				"Pho",
+				"app\\Photo.php"
+			],
+			[
+				"Post/in",
+				"resources\\views\\admin\\posts\\index.blade.php"
+			],
+			[
+				"post/ed",
+				"resources\\views\\admin\\posts\\edit.blade.php"
+			],
+			[
+				"T",
+				"app\\Tag.php"
+			],
+			[
+				"Cat",
+				"app\\Category.php"
+			],
+			[
+				"wel",
+				"resources\\views\\welcome.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
