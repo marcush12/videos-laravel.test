@@ -135,13 +135,39 @@ class VideoController extends Controller
         $video->update();
         return redirect()->route('home')->with(['message'=>'O vídeo foi atualizado!']);
     }
-    public function search($search = null)
+    public function search($search = null, $filter= null)
     {
-        $videos = Video::where('title', 'LIKE', '%'.$search.'%')->paginate(5);//procura por: comeeeeeça c qq coisa + $search e termina com qq coisa
         if (is_null($search)) {
             $search = \Request::get('search');
+            if (is_null($search)) {
+                return redirect()->route('home');
+            }
             return redirect()->route('videoSearch', ['search'=>$search]);
         }
+        if (is_null($filter) && \Request::get('filter') && !is_null($search)) {
+            $filter = \Request::get('filter');
+            return redirect()->route('videoSearch', ['search'=>$search, 'filter'=>$filter]);
+        }
+        $column = 'id';
+        $order = 'desc';
+        if (!is_null($filter)) {
+            if ($filter == 'new') {
+                $column = 'id';
+                $order = 'desc';
+            }
+            if ($filter == 'old') {
+                $column = 'id';
+                $order = 'asc';
+            }
+            if ($filter == 'alfa') {
+                $column = 'title';
+                $order = 'asc';
+            }
+        }
+        $videos = Video::where('title', 'LIKE', '%'.$search.'%')
+                        ->orderBy($column, $order)
+                        ->paginate(5);//procura por: começa c qq coisa + $search e termina com qq coisa
+
         return view('video.search', [
             'videos'=>$videos,
             'search'=>$search

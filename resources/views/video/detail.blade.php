@@ -14,7 +14,7 @@
             <div class="panel panel-default video-data">
                 <div class="panel-heading">
                     <div class="panel-title">
-                        Upload por <strong>{{ $video->user->name.' '.$video->user->surname }} | {{ $video->created_at->diffForHumans() }}</strong>
+                        Upload por <strong><a href="{{ route('channel', ['user_id'=>$video->user->id]) }}">{{ $video->user->name.' '.$video->user->surname }}</a> </strong> {{ $video->created_at->diffForHumans() }}
                     </div>
                 </div>
                 <div class="panel-body">

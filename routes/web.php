@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', [
+Route::get('/', [
     'as' => 'home',
     'uses' => 'HomeController@index'
 ]);
@@ -67,7 +67,7 @@ Route::post('/update-video/{video_id}', array(
     'uses' => 'VideoController@update'
 ));
 
-Route::get('/buscar/{search?}', [
+Route::get('/buscar/{search?}/{filter?}', [
     'as'=> 'videoSearch',
     'uses' => 'VideoController@search'
 ]);
@@ -84,3 +84,13 @@ Route::get('/delete-comment/{comment_id}', [
     'middleware'=>'auth',
     'uses'=>'CommentController@delete'
 ]);
+//usuários
+Route::get('/canal/{user_id}', [
+    'as' => 'channel',
+    'uses' => 'UserController@channel'
+]);
+
+//cache
+Route::get('/clear-cache', function () {
+    $code = Artisan::call('cache: clear');
+});

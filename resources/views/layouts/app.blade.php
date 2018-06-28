@@ -38,9 +38,9 @@
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
                     <!-- Left Side Of Navbar -->
                     <ul class="nav navbar-nav">
-                        &nbsp;
+                        <li><a href="{{ '/' }}">Início</a></li>
                     </ul>
-                    <form action="" class="navbar-form navbar-left" role='search' action='{{ url('/buscar') }}'>
+                    <form class="navbar-form navbar-left" role='search' action='{{ url('/buscar') }}'>
                         <div class="form-group">
                             <input type="text" name='search' class='form-control' placeholder='O que você quer ver?'>
                             <button type='submit' class='btn btn-default'>
